@@ -13,5 +13,4 @@ int main(){
 	{
 		printf("The result is divisible by 2");
 	}
-return 0;
 }
